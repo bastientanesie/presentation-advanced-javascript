@@ -1,0 +1,30 @@
+{
+  "name": "presentation-advanced-javascrip",
+  "version": "1.0.0",
+  "description": "A quick presentation about some advanced javascript techniques I've used on my last projects.",
+  "main": "index.html",
+  "dependencies": {
+    "reveal.js": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastientanesie/presentation-advanced-javascrip.git"
+  },
+  "keywords": [
+    "javascript",
+    "advanced",
+    "oop",
+    "oojs",
+    "inheritence",
+    "wixiweb"
+  ],
+  "author": {
+    "name": "Bastien Tanésie",
+    "url": "https://twitter.com/bastientanesie"
+  },
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/bastientanesie/presentation-advanced-javascrip/issues"
+  },
+  "homepage": "https://github.com/bastientanesie/presentation-advanced-javascrip#readme"
+}
